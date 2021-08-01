@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExampleApplication</string>
+    <string name="failed_try_again">Failed Load Data</string>
+    <string name="try_again">Try Again</string>
+    <string name="search">Search</string>
+    <string name="switch_str">switch</string>
+</resources>
